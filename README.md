@@ -1,4 +1,4 @@
-**<h1 align="center">Greetings 👋, I'm Woraphat Sriwichai</h1>
+<h1 align="center">Greetings 👋, I'm Woraphat Sriwichai</h1>
 <h3 align="center">3rd year software engineering student at Mae Fah Luang University. Currently doing research about Mango Bruises area calculation using ML/DL models and Computer Vision.</h3>
 
 - 🔭 I’m currently working on [Bruise Tracker](https://github.com/WoraphatSriwichai/BruiseTracker)
